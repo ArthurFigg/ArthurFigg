@@ -1,24 +1,43 @@
-👋 Olá, sou Arthur Malagris
-Desenvolvedor back-end em formação, apaixonado por Python, APIs REST e boas práticas de código. Estudando e construindo projetos reais para crescer na área.
+<h1 align="center">👋 Olá, sou Arthur Malagris</h1>
 
-🛠️ Tecnologias
-Python
-Flask
-Java
-HTML/CSS
-Git
-SOLID
-📌 Projetos em destaque
-🔗 flask-crud-api — API REST com Flask, operações CRUD completas
+<p align="center">
+  Desenvolvedor back-end em formação, apaixonado por Python, APIs REST e boas práticas de código.<br>
+  Estudando e construindo projetos reais para crescer na área.
+</p>
 
-🔐 flask-auth — Sistema de autenticação com Flask
+---
 
-🛒 ecommerce-solid-python — E-commerce aplicando princípios SOLID
+## 🛠️ Tecnologias
 
-🏦 bank-account-java — Gerenciador de contas bancárias em Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📫 Contato
-📧 arthurmalagris@gmail.com
+---
 
-💼 linkedin.com/in/arthur-figueiredo-
+## 📌 Projetos em destaque
 
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [flask-crud-api](https://github.com/ArthurFigg/api_com_flask_crud) | API REST com operações CRUD completas | Python, Flask |
+| [flask-auth](https://github.com/ArthurFigg/flask_simples_auth) | Sistema de autenticação com Flask | Python, Flask |
+| [ecommerce-solid](https://github.com/ArthurFigg/e-commerce_completo_solid_python) | E-commerce aplicando princípios SOLID | Python |
+| [bank-account-java](https://github.com/ArthurFigg/Gerenciador-de-Contas-Bancarias-em-Java) | Gerenciador de contas bancárias | Java |
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-figueiredo-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmalagris@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurFigg&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFigg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
