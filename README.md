@@ -17,14 +17,15 @@
 
 ---
 ## 📌 Projetos em destaque
-
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [ecommerce-solid](https://github.com/ArthurFigg/e-commerce_completo_solid_python) | E-commerce aplicando princípios SOLID | Python, Flask |
 | [flask-auth](https://github.com/ArthurFigg/flask_simples_auth) | Sistema de autenticação com Flask | Python, Flask |
 | [bestiario-dnd](https://github.com/ArthurFigg/Bestiario_dEd_python) | Busca e análise de monstros de D&D 5e via API | Python, SQLite, Pandas |
 | [daily-news-pipeline](https://github.com/ArthurFigg/daily-news-pipeline-telegram) | Pipeline de coleta de newsletters via email com bot Telegram | Python, SQLite |
-| [combate-de-turno](https://github.com/ArthurFigg/combate_de_turno) | RPG por turnos com interface gráfica e animações | Python, Pygame || [bank-account-java](https://github.com/ArthurFigg/Gerenciador-de-Contas-Bancarias-em-Java) | Gerenciador de contas bancárias | Java |
+| [combate-de-turno](https://github.com/ArthurFigg/combate_de_turno) | RPG por turnos com interface gráfica e animações | Python, Pygame |
+| [bank-account-java](https://github.com/ArthurFigg/Gerenciador-de-Contas-Bancarias-em-Java) | Gerenciador de contas bancárias | Java |
+| [hardware-monitor](https://github.com/ArthurFigg/hardware_monitor) | Monitor de CPU, RAM e disco em tempo real com notificações nativas do SO | Python, CustomTkinter, psutil |
 
 ## 📫 Contato
 
